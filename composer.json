@@ -15,7 +15,7 @@
         }
     ],    
     "require": {
-        "oseintow/laravel-bigcommerce": "dev-master",
+        "oseintow/laravel-bigcommerce": "dev-composer-fix",
         "php": ">=7.0.0",
         "illuminate/support": "5.4.*",
         "bigcommerce/api": "^3.0"
