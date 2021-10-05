@@ -11,7 +11,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "yuval-a/laravel-bigcommerce.git
+            "url": "https://github.com/yuval-a/laravel-bigcommerce"
         }
     ],    
     "require": {
