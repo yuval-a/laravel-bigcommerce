@@ -8,6 +8,12 @@
             "email": "oseintow@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/yuval-a/laravel-bigcommerce
+        }
+    ],    
     "require": {
         "php": ">=7.0.0",
         "illuminate/support": "5.4.*",
